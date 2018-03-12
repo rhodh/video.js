@@ -1,5 +1,5 @@
 {
-  "name": "video.js",
+  "name": "@uexio/video.js",
   "description": "An HTML5 and Flash video player with a common API and skin for both.",
   "version": "6.7.4",
   "main": "./dist/video.cjs.js",
