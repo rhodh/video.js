@@ -1,3 +1,6 @@
+<a name="6.7.9"></a>
+## [6.7.9](https://github.com/rhodh/video.js/compare/v6.7.8...v6.7.9) (2018-03-12)
+
 <a name="6.7.8"></a>
 ## [6.7.8](https://github.com/rhodh/video.js/compare/v6.7.7...v6.7.8) (2018-03-12)
 
